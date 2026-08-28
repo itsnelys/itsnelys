@@ -21,9 +21,9 @@
 
 ## 👋 Introduction
 
-Je construis des systèmes de jeu, des outils, des mondes interactifs et des workflows orientés 3D, avec un goût marqué pour la science-fiction, les interfaces cyberpunk, la logique procédurale et les expériences narratives immersives.
+Je construis des jeux, des systèmes, des outils et des workflows orientés 3D, avec un goût marqué pour la dark fantasy, la science-fiction, les interfaces cyberpunk, la logique procédurale et les expériences narratives immersives.
 
-Mon GitHub public met actuellement en avant des projets techniques ciblés : scripts d’automatisation C# pour Space Engineers, supports de mission et de test pour Arma 3, et templates d’assets 3D réutilisables.
+Mon travail se situe entre gameplay programming, technical art, worldbuilding, modding, automatisation et production de jeux indépendants.
 
 ## 🧬 À propos
 
@@ -31,7 +31,7 @@ Je suis une game developer et 3D artist française basée à Tours, avec un trav
 
 Je m’intéresse particulièrement à :
 
-`Unreal Engine 5` · `C++` · `C#` · `Procedural Generation` · `AI` · `Game Systems` · `3D Art` · `Interactive Storytelling`
+`Unreal Engine 5` · `C++` · `C#` · `Java` · `Procedural Generation` · `AI` · `Game Systems` · `3D Art`
 
 ## 🏢 Pandora Interactive
 
@@ -45,37 +45,37 @@ L’objectif n’est pas de présenter un grand studio, mais un cadre indépenda
 
 ## 🚀 Projets mis en avant
 
-### AirLock
+### Grimward
 
-> Un script Space Engineers pour Programmable Block qui gère des sas pressurisés, la détection de fuites O2, les états d’urgence et l’affichage sur LCD.
+> Un sandbox RPG dark fantasy en développement, centré sur les mondes procéduraux, l’exploration, les systèmes modulaires et l’emergent gameplay.
 
-`C#` `Space Engineers` `Automation` `Game Systems`
+`Game Development` `Sandbox RPG` `Procedural Worlds` `Worldbuilding`
 
-[Voir le repository →](https://github.com/itsnelys/AirLock)
+Grimward fait partie de mes grandes directions créatives : un projet de jeu ambitieux pensé autour de mondes vivants, systèmes gameplay, civilisations, villages, routes, souterrains, réputation, crafting, professions et histoires portées par les choix du joueur.
 
-### Autochest
+### Pandora Interactive
 
-> Un collecteur et trieur d’inventaire automatique pour bases et vaisseaux Space Engineers, avec inventaires protégés et retour d’état sur LCD.
+> Mon activité de studio indépendant pour créer des jeux, des outils, des mondes et des systèmes immersifs.
 
-`C#` `Space Engineers` `Inventory Systems` `Automation`
+`Indie Studio` `Game Systems` `AI` `3D Art`
 
-[Voir le repository →](https://github.com/itsnelys/Autochest)
+[Visiter le site →](https://pandora-interactive.fr/)
 
-### LightDetector
+### Gameplay & Automation Tools
 
-> Un contrôleur d’éclairage jour/nuit qui utilise la production des panneaux solaires pour basculer les lumières taguées entre modes jour et nuit.
+> De petits systèmes techniques conçus pour automatiser, fiabiliser ou améliorer des workflows de gameplay sandbox.
 
-`C#` `Space Engineers` `Lighting Logic` `Utility Script`
+`C#` `Scripting` `Automation` `Tools`
 
-[Voir le repository →](https://github.com/itsnelys/LightDetector)
+[AirLock](https://github.com/itsnelys/AirLock) · [Autochest](https://github.com/itsnelys/Autochest) · [LightDetector](https://github.com/itsnelys/LightDetector) · [AutoCloseDoors](https://github.com/itsnelys/AutoCloseDoors)
 
-### AutoCloseDoors
+### Modding & Mission Work
 
-> Un script minimal pour Space Engineers qui referme automatiquement les portes groupées après un délai configurable.
+> Expérimentations et supports de travail pour gameplay moddé, tests, mise en place de missions et scénarios interactifs.
 
-`C#` `Space Engineers` `Programmable Block` `QoL Tool`
+`Arma 3` `Mission Testing` `Modding` `Game Design`
 
-[Voir le repository →](https://github.com/itsnelys/AutoCloseDoors)
+[Voir le repository →](https://github.com/itsnelys/Arm3Mission)
 
 ### 3D_templates
 
@@ -90,21 +90,23 @@ L’objectif n’est pas de présenter un grand studio, mais un cadre indépenda
 ### 🎮 Game Development
 
 ![C#](https://img.shields.io/badge/C%23-111827?style=flat&logo=csharp&logoColor=white&labelColor=512BD4)
-![Space Engineers](https://img.shields.io/badge/Space%20Engineers-111827?style=flat&labelColor=4C1D95)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111827?style=flat&logo=unrealengine&logoColor=white&labelColor=0E1128)
 ![Arma 3](https://img.shields.io/badge/Arma%203-111827?style=flat&labelColor=334155)
 ![Gameplay Systems](https://img.shields.io/badge/Gameplay%20Systems-111827?style=flat&labelColor=6D28D9)
 
 ### 🌐 Development
 
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white&labelColor=181717)
+![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white&labelColor=E11F21)
 ![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat&logo=markdown&logoColor=white&labelColor=000000)
 ![C# Scripting](https://img.shields.io/badge/C%23%20Scripting-111827?style=flat&labelColor=512BD4)
 
 ### 🛠️ Tools & Workflows
 
-![Programmable Blocks](https://img.shields.io/badge/Programmable%20Blocks-111827?style=flat&labelColor=7C3AED)
+![Modding](https://img.shields.io/badge/Modding-111827?style=flat&labelColor=7C3AED)
 ![Automation](https://img.shields.io/badge/Automation-111827?style=flat&labelColor=581C87)
-![LCD Dashboards](https://img.shields.io/badge/LCD%20Dashboards-111827?style=flat&labelColor=312E81)
+![Procedural Systems](https://img.shields.io/badge/Procedural%20Systems-111827?style=flat&labelColor=312E81)
 ![Mission Testing](https://img.shields.io/badge/Mission%20Testing-111827?style=flat&labelColor=334155)
 
 ### 🎨 Art & Design
@@ -116,10 +118,11 @@ L’objectif n’est pas de présenter un grand studio, mais un cadre indépenda
 
 ## 🌌 Ce que je construis
 
-- Des systèmes gameplay et d’automatisation modulaires pour environnements sandbox.
-- Des outils qui rendent bases, vaisseaux, missions et espaces interactifs plus simples à gérer.
-- Des bibliothèques d’assets 3D et références visuelles pour prototypes, mods et worldbuilding.
-- Des expérimentations autour des mondes procéduraux, des systèmes assistés par IA et de la narration immersive.
+- Des mondes dark fantasy et sci-fi avec un gameplay systémique et porté par les choix du joueur.
+- Des environnements procéduraux, villages, routes, souterrains et concepts de mondes vivants.
+- Des outils gameplay, systèmes d’automatisation, workflows de modding et prototypes de missions.
+- Des bibliothèques d’assets 3D, UV templates, références visuelles et workflows de technical art.
+- Des expérimentations autour des systèmes assistés par IA, de l’emergent gameplay et de la narration immersive.
 
 ## 📊 GitHub
 
@@ -128,7 +131,7 @@ L’objectif n’est pas de présenter un grand studio, mais un cadre indépenda
   <img src="https://img.shields.io/github/stars/itsnelys?affiliations=OWNER&style=flat&label=stars&labelColor=171123&color=A855F7" alt="Stars GitHub de itsnelys">
 </p>
 
-Snapshot public : **6 repositories**, avec un code public actuellement centré sur des **scripts d’automatisation C# pour Space Engineers** et des **ressources de projet orientées 3D**.
+Snapshot public : **6 repositories**, avec des travaux visibles autour de **scripts gameplay/automation en C#**, de **supports de modding/test** et de **ressources de projet orientées 3D**.
 
 ## 📫 Liens
 
