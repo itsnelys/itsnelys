@@ -13,8 +13,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Development-111827?style=flat&labelColor=171123&color=8B5CF6" alt="Game Development">
-  <img src="https://img.shields.io/badge/Java%20Modding-111827?style=flat&labelColor=171123&color=F97316" alt="Java Modding">
-  <img src="https://img.shields.io/badge/Minecraft%20Mods-111827?style=flat&labelColor=171123&color=22C55E" alt="Minecraft Mods">
+  <img src="https://img.shields.io/badge/Java%20%26%20Modding-111827?style=flat&labelColor=171123&color=F97316" alt="Java and Modding">
+  <img src="https://img.shields.io/badge/Sandbox%20Systems-111827?style=flat&labelColor=171123&color=22C55E" alt="Sandbox Systems">
   <img src="https://img.shields.io/badge/Technical%20Art-111827?style=flat&labelColor=171123&color=A855F7" alt="Technical Art">
   <img src="https://img.shields.io/badge/Procedural%20Systems-111827?style=flat&labelColor=171123&color=7C3AED" alt="Procedural Systems">
 </p>
@@ -25,7 +25,7 @@
 
 I build games, mods, systems, tools, and 3D-oriented workflows with a strong taste for dark fantasy, science fiction, cyberpunk interfaces, procedural logic, and immersive narrative experiences.
 
-My work lives between Java modding, gameplay programming, technical art, worldbuilding, automation, and independent game production.
+My work lives between Java development, modding, gameplay programming, technical art, worldbuilding, automation, and independent game production.
 
 ## 🧬 About Me
 
@@ -33,7 +33,7 @@ I am a French game developer and 3D artist based in Tours, France, working betwe
 
 I am especially interested in:
 
-`Java` · `Minecraft Modding` · `Unreal Engine 5` · `C++` · `C#` · `Procedural Generation` · `Game Systems` · `3D Art`
+`Java` · `Modding` · `Minecraft` · `Arma` · `Warhammer` · `Unreal Engine 5` · `C++` · `C#` · `Game Systems`
 
 ## 🏢 Pandora Interactive
 
@@ -47,13 +47,13 @@ The goal is not to present a large studio, but a focused independent space for b
 
 ## 🚀 Core Focus
 
-### Java & Minecraft Modding
+### Java, Modding & Game Systems
 
-> Gameplay features, custom systems, tools, and modded experiences built around Minecraft's Java ecosystem.
+> Gameplay features, custom systems, tools, and modded experiences across sandbox, tactical, and roleplay-oriented games.
 
-`Java` `Minecraft Modding` `Game Systems` `Tools`
+`Java` `Minecraft` `Arma` `Warhammer` `Game Systems`
 
-I like building systems that extend a sandbox instead of simply adding content: mechanics, progression ideas, utilities, custom interactions, and tools that make modded gameplay feel more coherent.
+I like building systems that extend existing games instead of simply adding content: mechanics, progression ideas, utilities, custom interactions, mission logic, and tools that make modded gameplay feel more coherent.
 
 ### Grimward
 
@@ -100,7 +100,10 @@ Grimward is one of my main creative directions: an ambitious game project built 
 ### 🎮 Game Development
 
 ![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white&labelColor=E11F21)
-![Minecraft Modding](https://img.shields.io/badge/Minecraft%20Modding-111827?style=flat&labelColor=22C55E)
+![Modding](https://img.shields.io/badge/Modding-111827?style=flat&labelColor=7C3AED)
+![Minecraft](https://img.shields.io/badge/Minecraft-111827?style=flat&labelColor=22C55E)
+![Arma](https://img.shields.io/badge/Arma-111827?style=flat&labelColor=334155)
+![Warhammer](https://img.shields.io/badge/Warhammer-111827?style=flat&labelColor=7F1D1D)
 ![C#](https://img.shields.io/badge/C%23-111827?style=flat&logo=csharp&logoColor=white&labelColor=512BD4)
 ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111827?style=flat&logo=unrealengine&logoColor=white&labelColor=0E1128)
@@ -114,7 +117,6 @@ Grimward is one of my main creative directions: an ambitious game project built 
 
 ### 🛠️ Tools & Workflows
 
-![Modding](https://img.shields.io/badge/Modding-111827?style=flat&labelColor=7C3AED)
 ![Automation](https://img.shields.io/badge/Automation-111827?style=flat&labelColor=581C87)
 ![Procedural Systems](https://img.shields.io/badge/Procedural%20Systems-111827?style=flat&labelColor=312E81)
 ![Mission Testing](https://img.shields.io/badge/Mission%20Testing-111827?style=flat&labelColor=334155)
@@ -128,7 +130,8 @@ Grimward is one of my main creative directions: an ambitious game project built 
 
 ## 🌌 What I Build
 
-- Java mods and Minecraft systems that expand sandbox gameplay.
+- Java systems and mods for sandbox, tactical, and roleplay-oriented games.
+- Minecraft, Arma, and Warhammer modding concepts, tools, missions, and gameplay extensions.
 - Dark fantasy and sci-fi worlds with systemic, player-driven gameplay.
 - Procedural environments, villages, roads, underground spaces, and living-world concepts.
 - Gameplay tools, automation systems, modding workflows, and mission prototypes.
