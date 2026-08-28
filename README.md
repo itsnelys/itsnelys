@@ -23,7 +23,7 @@
 
 ## 👋 Introduction
 
-I build games, mods, systems, tools, and 3D-oriented workflows with a strong taste for dark fantasy, science fiction, cyberpunk interfaces, procedural logic, and immersive narrative experiences.
+I build games, mods, gameplay systems, tools, and 3D-oriented workflows with a strong taste for dark fantasy, science fiction, cyberpunk interfaces, procedural logic, and immersive narrative experiences.
 
 My work lives between Java development, modding, gameplay programming, technical art, worldbuilding, automation, and independent game production.
 
@@ -31,7 +31,7 @@ My work lives between Java development, modding, gameplay programming, technical
 
 I am a French game developer and 3D artist based in Tours, France, working between gameplay logic, technical art, worldbuilding, and systems design.
 
-I am especially interested in:
+My profile is intentionally focused on skills and creative direction rather than repeating pinned repositories below.
 
 `Java` · `Modding` · `Minecraft` · `Arma` · `Warhammer` · `Unreal Engine 5` · `C++` · `C#` · `Game Systems`
 
@@ -45,7 +45,7 @@ The goal is not to present a large studio, but a focused independent space for b
 
 [Visit Pandora Interactive →](https://pandora-interactive.fr/)
 
-## 🚀 Core Focus
+## 🚀 Core Expertise
 
 ### Java, Modding & Game Systems
 
@@ -54,6 +54,22 @@ The goal is not to present a large studio, but a focused independent space for b
 `Java` `Minecraft` `Arma` `Warhammer` `Game Systems`
 
 I like building systems that extend existing games instead of simply adding content: mechanics, progression ideas, utilities, custom interactions, mission logic, and tools that make modded gameplay feel more coherent.
+
+### Game Development
+
+> Gameplay logic, sandbox systems, prototypes, world rules, interactive tools, and player-facing mechanics.
+
+`Gameplay Programming` `System Design` `Prototyping` `Interactive Worlds`
+
+I focus on systems that can support play, exploration, narrative situations, and emergent behavior.
+
+### Technical Art & 3D Workflow
+
+> 3D asset preparation, UV templates, visual references, environment workflows, and bridges between art and implementation.
+
+`3D Art` `UV Templates` `Environment Art` `Technical Art`
+
+I care about the practical side of visual production: clean assets, reusable references, structured libraries, and workflows that can support game production.
 
 ### Grimward
 
@@ -68,6 +84,54 @@ Grimward is one of my main creative directions: an ambitious game project built 
 > My independent studio activity for building games, tools, worlds, and immersive systems.
 
 `Indie Studio` `Game Systems` `AI` `3D Art`
+
+## 💻 Languages & Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white&labelColor=E11F21)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat&logo=csharp&logoColor=white&labelColor=512BD4)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
+![Lua](https://img.shields.io/badge/Lua-111827?style=flat&logo=lua&logoColor=white&labelColor=2C2D72)
+
+### Engines, Modding & Game Tools
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111827?style=flat&logo=unrealengine&logoColor=white&labelColor=0E1128)
+![Unity](https://img.shields.io/badge/Unity-111827?style=flat&logo=unity&logoColor=white&labelColor=000000)
+![Minecraft](https://img.shields.io/badge/Minecraft-111827?style=flat&labelColor=22C55E)
+![Arma](https://img.shields.io/badge/Arma-111827?style=flat&labelColor=334155)
+![Warhammer](https://img.shields.io/badge/Warhammer-111827?style=flat&labelColor=7F1D1D)
+![Modding](https://img.shields.io/badge/Modding-111827?style=flat&labelColor=7C3AED)
+
+### 3D, Art & Production Software
+
+![Blender](https://img.shields.io/badge/Blender-111827?style=flat&logo=blender&logoColor=white&labelColor=E87D0D)
+![Maya](https://img.shields.io/badge/Maya-111827?style=flat&labelColor=00A9E0)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-111827?style=flat&labelColor=0EA5E9)
+![Photoshop](https://img.shields.io/badge/Photoshop-111827?style=flat&logo=adobephotoshop&logoColor=white&labelColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-111827?style=flat&logo=adobeillustrator&logoColor=white&labelColor=FF9A00)
+![Substance B2M](https://img.shields.io/badge/Substance%20B2M-111827?style=flat&labelColor=14B8A6)
+
+### IDEs & Technical Tools
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-111827?style=flat&logo=intellijidea&logoColor=white&labelColor=000000)
+![Eclipse](https://img.shields.io/badge/Eclipse-111827?style=flat&logo=eclipseide&logoColor=white&labelColor=2C2255)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-111827?style=flat&logo=visualstudio&logoColor=white&labelColor=5C2D91)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-111827?style=flat&logo=sublimetext&logoColor=white&labelColor=FF9800)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white&labelColor=181717)
+![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat&logo=markdown&logoColor=white&labelColor=000000)
+
+### CAD & Architecture Tools
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-111827?style=flat&labelColor=E51050)
+![ArchiCAD](https://img.shields.io/badge/ArchiCAD-111827?style=flat&labelColor=2563EB)
+![SketchUp](https://img.shields.io/badge/SketchUp-111827?style=flat&labelColor=EF4444)
+
+### Spoken Languages
+
+`French` Native · `English` Technical / professional working proficiency
 
 ## 🧩 Public Work
 
@@ -94,39 +158,6 @@ Grimward is one of my main creative directions: an ambitious game project built 
 `3D Assets` `UV Templates` `Modding` `Technical Art`
 
 [View Repository →](https://github.com/itsnelys/3D_templates)
-
-## 🛠️ Technologies
-
-### 🎮 Game Development
-
-![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white&labelColor=E11F21)
-![Modding](https://img.shields.io/badge/Modding-111827?style=flat&labelColor=7C3AED)
-![Minecraft](https://img.shields.io/badge/Minecraft-111827?style=flat&labelColor=22C55E)
-![Arma](https://img.shields.io/badge/Arma-111827?style=flat&labelColor=334155)
-![Warhammer](https://img.shields.io/badge/Warhammer-111827?style=flat&labelColor=7F1D1D)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat&logo=csharp&logoColor=white&labelColor=512BD4)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111827?style=flat&logo=unrealengine&logoColor=white&labelColor=0E1128)
-![Gameplay Systems](https://img.shields.io/badge/Gameplay%20Systems-111827?style=flat&labelColor=6D28D9)
-
-### 🌐 Development
-
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white&labelColor=181717)
-![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat&logo=markdown&logoColor=white&labelColor=000000)
-![C# Scripting](https://img.shields.io/badge/C%23%20Scripting-111827?style=flat&labelColor=512BD4)
-
-### 🛠️ Tools & Workflows
-
-![Automation](https://img.shields.io/badge/Automation-111827?style=flat&labelColor=581C87)
-![Procedural Systems](https://img.shields.io/badge/Procedural%20Systems-111827?style=flat&labelColor=312E81)
-![Mission Testing](https://img.shields.io/badge/Mission%20Testing-111827?style=flat&labelColor=334155)
-
-### 🎨 Art & Design
-
-![3D Assets](https://img.shields.io/badge/3D%20Assets-111827?style=flat&labelColor=9333EA)
-![UV Templates](https://img.shields.io/badge/UV%20Templates-111827?style=flat&labelColor=7E22CE)
-![Technical Art](https://img.shields.io/badge/Technical%20Art-111827?style=flat&labelColor=A855F7)
-![Worldbuilding](https://img.shields.io/badge/Worldbuilding-111827?style=flat&labelColor=4C1D95)
 
 ## 🌌 What I Build
 

@@ -23,7 +23,7 @@
 
 ## 👋 Introduction
 
-Je construis des jeux, des mods, des systèmes, des outils et des workflows orientés 3D, avec un goût marqué pour la dark fantasy, la science-fiction, les interfaces cyberpunk, la logique procédurale et les expériences narratives immersives.
+Je construis des jeux, des mods, des systèmes gameplay, des outils et des workflows orientés 3D, avec un goût marqué pour la dark fantasy, la science-fiction, les interfaces cyberpunk, la logique procédurale et les expériences narratives immersives.
 
 Mon travail se situe entre développement Java, modding, gameplay programming, technical art, worldbuilding, automatisation et production de jeux indépendants.
 
@@ -31,7 +31,7 @@ Mon travail se situe entre développement Java, modding, gameplay programming, t
 
 Je suis une game developer et 3D artist française basée à Tours, avec un travail situé entre logique gameplay, technical art, worldbuilding et conception de systèmes.
 
-Je m’intéresse particulièrement à :
+Ce profil est volontairement centré sur mes compétences et ma direction créative, plutôt que sur une répétition des repositories déjà visibles en pinned.
 
 `Java` · `Modding` · `Minecraft` · `Arma` · `Warhammer` · `Unreal Engine 5` · `C++` · `C#` · `Game Systems`
 
@@ -45,7 +45,7 @@ L’objectif n’est pas de présenter un grand studio, mais un cadre indépenda
 
 [Visiter Pandora Interactive →](https://pandora-interactive.fr/)
 
-## 🚀 Axes principaux
+## 🚀 Expertises clés
 
 ### Java, Modding & Game Systems
 
@@ -54,6 +54,22 @@ L’objectif n’est pas de présenter un grand studio, mais un cadre indépenda
 `Java` `Minecraft` `Arma` `Warhammer` `Game Systems`
 
 J’aime construire des systèmes qui étendent des jeux existants plutôt que simplement ajouter du contenu : mécaniques, idées de progression, utilitaires, interactions custom, logique de mission et outils qui rendent l’expérience moddée plus cohérente.
+
+### Game Development
+
+> Logique gameplay, systèmes sandbox, prototypes, règles de monde, outils interactifs et mécaniques côté joueur.
+
+`Gameplay Programming` `System Design` `Prototyping` `Interactive Worlds`
+
+Je travaille surtout sur des systèmes capables de soutenir le jeu, l’exploration, les situations narratives et les comportements émergents.
+
+### Technical Art & Workflow 3D
+
+> Préparation d’assets 3D, UV templates, références visuelles, workflows d’environnement et ponts entre art et intégration.
+
+`3D Art` `UV Templates` `Environment Art` `Technical Art`
+
+J’accorde beaucoup d’importance au côté production : assets propres, références réutilisables, bibliothèques structurées et workflows exploitables pour un projet de jeu.
 
 ### Grimward
 
@@ -68,6 +84,54 @@ Grimward fait partie de mes grandes directions créatives : un projet de jeu amb
 > Mon activité de studio indépendant pour créer des jeux, des outils, des mondes et des systèmes immersifs.
 
 `Indie Studio` `Game Systems` `AI` `3D Art`
+
+## 💻 Langages & Stack
+
+### Langages de programmation
+
+![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white&labelColor=E11F21)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat&logo=csharp&logoColor=white&labelColor=512BD4)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
+![Lua](https://img.shields.io/badge/Lua-111827?style=flat&logo=lua&logoColor=white&labelColor=2C2D72)
+
+### Moteurs, modding & outils jeu
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111827?style=flat&logo=unrealengine&logoColor=white&labelColor=0E1128)
+![Unity](https://img.shields.io/badge/Unity-111827?style=flat&logo=unity&logoColor=white&labelColor=000000)
+![Minecraft](https://img.shields.io/badge/Minecraft-111827?style=flat&labelColor=22C55E)
+![Arma](https://img.shields.io/badge/Arma-111827?style=flat&labelColor=334155)
+![Warhammer](https://img.shields.io/badge/Warhammer-111827?style=flat&labelColor=7F1D1D)
+![Modding](https://img.shields.io/badge/Modding-111827?style=flat&labelColor=7C3AED)
+
+### 3D, art & production
+
+![Blender](https://img.shields.io/badge/Blender-111827?style=flat&logo=blender&logoColor=white&labelColor=E87D0D)
+![Maya](https://img.shields.io/badge/Maya-111827?style=flat&labelColor=00A9E0)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-111827?style=flat&labelColor=0EA5E9)
+![Photoshop](https://img.shields.io/badge/Photoshop-111827?style=flat&logo=adobephotoshop&logoColor=white&labelColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-111827?style=flat&logo=adobeillustrator&logoColor=white&labelColor=FF9A00)
+![Substance B2M](https://img.shields.io/badge/Substance%20B2M-111827?style=flat&labelColor=14B8A6)
+
+### IDEs & outils techniques
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-111827?style=flat&logo=intellijidea&logoColor=white&labelColor=000000)
+![Eclipse](https://img.shields.io/badge/Eclipse-111827?style=flat&logo=eclipseide&logoColor=white&labelColor=2C2255)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-111827?style=flat&logo=visualstudio&logoColor=white&labelColor=5C2D91)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-111827?style=flat&logo=sublimetext&logoColor=white&labelColor=FF9800)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white&labelColor=181717)
+![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat&logo=markdown&logoColor=white&labelColor=000000)
+
+### CAO & architecture
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-111827?style=flat&labelColor=E51050)
+![ArchiCAD](https://img.shields.io/badge/ArchiCAD-111827?style=flat&labelColor=2563EB)
+![SketchUp](https://img.shields.io/badge/SketchUp-111827?style=flat&labelColor=EF4444)
+
+### Langues parlées
+
+`Français` Natif · `Anglais` Technique / professionnel
 
 ## 🧩 Travaux publics
 
@@ -94,39 +158,6 @@ Grimward fait partie de mes grandes directions créatives : un projet de jeu amb
 `3D Assets` `UV Templates` `Modding` `Technical Art`
 
 [Voir le repository →](https://github.com/itsnelys/3D_templates)
-
-## 🛠️ Technologies
-
-### 🎮 Game Development
-
-![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk&logoColor=white&labelColor=E11F21)
-![Modding](https://img.shields.io/badge/Modding-111827?style=flat&labelColor=7C3AED)
-![Minecraft](https://img.shields.io/badge/Minecraft-111827?style=flat&labelColor=22C55E)
-![Arma](https://img.shields.io/badge/Arma-111827?style=flat&labelColor=334155)
-![Warhammer](https://img.shields.io/badge/Warhammer-111827?style=flat&labelColor=7F1D1D)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat&logo=csharp&logoColor=white&labelColor=512BD4)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111827?style=flat&logo=unrealengine&logoColor=white&labelColor=0E1128)
-![Gameplay Systems](https://img.shields.io/badge/Gameplay%20Systems-111827?style=flat&labelColor=6D28D9)
-
-### 🌐 Development
-
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white&labelColor=181717)
-![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat&logo=markdown&logoColor=white&labelColor=000000)
-![C# Scripting](https://img.shields.io/badge/C%23%20Scripting-111827?style=flat&labelColor=512BD4)
-
-### 🛠️ Tools & Workflows
-
-![Automation](https://img.shields.io/badge/Automation-111827?style=flat&labelColor=581C87)
-![Procedural Systems](https://img.shields.io/badge/Procedural%20Systems-111827?style=flat&labelColor=312E81)
-![Mission Testing](https://img.shields.io/badge/Mission%20Testing-111827?style=flat&labelColor=334155)
-
-### 🎨 Art & Design
-
-![3D Assets](https://img.shields.io/badge/3D%20Assets-111827?style=flat&labelColor=9333EA)
-![UV Templates](https://img.shields.io/badge/UV%20Templates-111827?style=flat&labelColor=7E22CE)
-![Technical Art](https://img.shields.io/badge/Technical%20Art-111827?style=flat&labelColor=A855F7)
-![Worldbuilding](https://img.shields.io/badge/Worldbuilding-111827?style=flat&labelColor=4C1D95)
 
 ## 🌌 Ce que je construis
 
