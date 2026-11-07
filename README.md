@@ -7,30 +7,35 @@
 <h1 align="center">Nelys / itsnelys</h1>
 
 <p align="center">
-  <strong>Game Developer · 3D Artist · Technical Artist</strong><br>
+  <strong>Game Developer · Technical Artist · 3D Artist</strong><br>
   Founder of <a href="https://pandora-interactive.fr/">Pandora Interactive</a>
 </p>
 
 ---
 
-I create games, mods, gameplay systems, tools, and 3D workflows — with a focus on dark fantasy, science fiction, procedural systems, and immersive storytelling.
+I design interactive experiences at the intersection of gameplay engineering, technical art, and worldbuilding. My work focuses on systems that give games structure, depth, and a strong visual identity.
 
-## Focus
+## Expertise
 
-- Game development and gameplay systems
-- Java, modding, Minecraft, Arma, and Warhammer projects
-- Technical art, 3D assets, and production workflows
-- Procedural worlds and interactive narratives
+- **Gameplay & systems design** — mechanics, progression, tools, and player-facing interactions
+- **Modding & sandbox development** — Java-based systems and projects for Minecraft, Arma, and Warhammer communities
+- **Technical art & 3D production** — reusable assets, UV templates, environment workflows, and implementation-ready resources
+- **Procedural design** — modular worlds, exploration systems, and emergent narrative foundations
 
-## Selected work
+## Current projects
+
+- **Grimward** — a dark-fantasy sandbox RPG in development. The project explores procedural worlds, exploration, modular gameplay systems, and stories shaped by player choices.
+- **Pandora Interactive** — an independent creative practice for developing games, tools, and immersive worlds with a technical and artistic approach.
+
+## Selected public work
 
 - **Gameplay tools:** [AirLock](https://github.com/itsnelys/AirLock), [Autochest](https://github.com/itsnelys/Autochest), [LightDetector](https://github.com/itsnelys/LightDetector), [AutoCloseDoors](https://github.com/itsnelys/AutoCloseDoors)
-- **Modding & missions:** [Arm3Mission](https://github.com/itsnelys/Arm3Mission)
+- **Modding & mission work:** [Arm3Mission](https://github.com/itsnelys/Arm3Mission)
 - **3D resources:** [3D_templates](https://github.com/itsnelys/3D_templates)
 
-## Main project
+## Approach
 
-**Grimward** is a dark-fantasy sandbox RPG in development, built around procedural worlds, exploration, modular systems, and emergent gameplay.
+I value clear systems, practical production workflows, and creative direction that supports play. Whether I am extending an existing game or developing an original concept, I aim to make the technical and visual sides work as one.
 
 ## Links
 
