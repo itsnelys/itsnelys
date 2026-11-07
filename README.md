@@ -1,5 +1,12 @@
 <h1 align="center">Nelys / itsnelys</h1>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE-Game%20Developer-755B2F?style=for-the-badge" alt="🎮 Game Developer">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A8-Technical%20Artist-E91E63?style=for-the-badge" alt="🎨 Technical Artist">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%8A-3D%20Artist-2878B5?style=for-the-badge" alt="🧊 3D Artist">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F-Pandora%20Interactive-555?style=for-the-badge" alt="🏛️ Pandora Interactive">
+</p>
 <p align="center">
   <strong>Game Developer · Technical Artist · 3D Artist</strong><br>
   Founder of <a href="https://pandora-interactive.fr/">Pandora Interactive</a>
