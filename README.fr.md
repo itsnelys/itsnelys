@@ -29,6 +29,7 @@ Je conçois des expériences interactives à la croisée de l’ingénierie game
 
 ## Travaux publics sélectionnés
 
+- **Suite Minecraft Iris** — des mods Java pour Minecraft 1.21.1 / NeoForge. [IrisCore](https://github.com/itsnelys/IrisCore) fournit l’interface commune, le HUD, les réglages et les raccourcis ; [IrisVision](https://github.com/itsnelys/IrisVision) ajoute le catalogue d’objets, les recettes, les favoris, la recherche d’inventaire et les tooltips détaillés. [IrisV](https://github.com/itsnelys/IrisV) est le projet autonome de catalogue et d’informations en jeu.
 - **Outils gameplay :** [AirLock](https://github.com/itsnelys/AirLock), [Autochest](https://github.com/itsnelys/Autochest), [LightDetector](https://github.com/itsnelys/LightDetector), [AutoCloseDoors](https://github.com/itsnelys/AutoCloseDoors)
 - **Modding & missions :** [Arm3Mission](https://github.com/itsnelys/Arm3Mission)
 - **Ressources 3D :** [3D_templates](https://github.com/itsnelys/3D_templates)
