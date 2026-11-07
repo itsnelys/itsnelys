@@ -24,6 +24,7 @@ I design interactive experiences at the intersection of gameplay engineering, te
 
 ## Current projects
 
+- **Pixora** — a local Windows pixel-art studio for drawing, retouching, and exporting sprites and textures. Built around an offline-first workflow, it includes layers, animation, tilemaps, palette tools, and project management. The source remains private; public releases are available below. [View releases →](https://github.com/itsnelys/Pixora-Releases/releases/latest)
 - **Grimward** — a dark-fantasy sandbox RPG in development. The project explores procedural worlds, exploration, modular gameplay systems, and stories shaped by player choices.
 - **Pandora Interactive** — an independent creative practice for developing games, tools, and immersive worlds with a technical and artistic approach.
 
