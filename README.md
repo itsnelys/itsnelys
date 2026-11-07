@@ -1,9 +1,3 @@
-<div align="right">
-
-[🇫🇷 Français](README.fr.md) · 🇬🇧 English
-
-</div>
-
 <h1 align="center">Nelys / itsnelys</h1>
 
 <p align="center">
