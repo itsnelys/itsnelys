@@ -27,6 +27,8 @@ I create games, creative tools, and interactive worlds where gameplay engineerin
 
 An offline-first Windows toolkit built for creating game assets—from image editing and pixel art to 3D models, animation, and sound. The applications share a consistent interface, themes, languages, update system, and workflow. Source code is private; official Windows builds and release notes are public.
 
+> **Now available: [Amethyst 1.0.0](https://github.com/itsnelys/Amethyst-Releases/releases/tag/v1.0.0)** — paint pixels, draw vectors, edit typography, and trace images in one offline-first workspace for Windows.
+
 <table>
   <tr>
     <td align="center" width="20%">
