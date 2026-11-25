@@ -64,7 +64,7 @@ An offline-first Windows toolkit built for creating game assets—from image edi
   <img src="https://img.shields.io/github/v/release/itsnelys/Pixora-Releases?style=flat-square&label=Pixora&color=E91E63" alt="Latest Pixora release">
   <img src="https://img.shields.io/github/v/release/itsnelys/Jade-Releases?style=flat-square&label=Jade&color=2E9E6E" alt="Latest Jade release">
   <img src="https://img.shields.io/github/v/release/itsnelys/Opal-Releases?style=flat-square&label=Opal&color=7C8FE6" alt="Latest Opal release">
-  <img src="https://img.shields.io/github/v/release/itsnelys/Amethyst-Releases?style=flat-square&label=Amethyst&color=8658ED" alt="Latest Amethyst release">
+  <a href="https://github.com/itsnelys/Amethyst-Releases/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Amethyst-v1.0.0-8658ED?style=flat-square" alt="Amethyst v1.0.0"></a>
 </p>
 
 ## Games & worlds
