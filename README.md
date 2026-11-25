@@ -25,29 +25,34 @@ I create games, creative tools, and interactive worlds where gameplay engineerin
 
 ## Pandora Interactive suite
 
-An offline-first Windows toolkit built for creating game assets from the first pixel to the final sound. The applications share a consistent interface, themes, languages, update system, and workflow. Source code is private; official Windows builds and release notes are public.
+An offline-first Windows toolkit built for creating game assets—from image editing and pixel art to 3D models, animation, and sound. The applications share a consistent interface, themes, languages, update system, and workflow. Source code is private; official Windows builds and release notes are public.
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/itsnelys/Hearth-Releases"><b>🔥 Hearth</b></a><br>
       <sub>Install, update, and launch the entire suite from one place.</sub><br><br>
       <a href="https://github.com/itsnelys/Hearth-Releases/releases/latest">Latest release</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/itsnelys/Pixora-Releases"><b>🎨 Pixora</b></a><br>
       <sub>Pixel art, textures, tilesets, and animated sprites.</sub><br><br>
       <a href="https://github.com/itsnelys/Pixora-Releases/releases/latest">Latest release</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/itsnelys/Jade-Releases"><b>🧊 Jade</b></a><br>
       <sub>Cube models, rigs, UVs, and game-ready animations.</sub><br><br>
       <a href="https://github.com/itsnelys/Jade-Releases/releases/latest">Latest release</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/itsnelys/Opal-Releases"><b>🎵 Opal</b></a><br>
       <sub>Sound effects, adaptive music, and game audio events.</sub><br><br>
       <a href="https://github.com/itsnelys/Opal-Releases/releases/latest">Latest release</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/itsnelys/Amethyst-Releases"><b>💜 Amethyst</b></a><br>
+      <sub>Image editing, vector illustration, typography, and tracing.</sub><br><br>
+      <a href="https://github.com/itsnelys/Amethyst-Releases/releases/latest">Latest release</a>
     </td>
   </tr>
 </table>
@@ -57,6 +62,7 @@ An offline-first Windows toolkit built for creating game assets from the first p
   <img src="https://img.shields.io/github/v/release/itsnelys/Pixora-Releases?style=flat-square&label=Pixora&color=E91E63" alt="Latest Pixora release">
   <img src="https://img.shields.io/github/v/release/itsnelys/Jade-Releases?style=flat-square&label=Jade&color=2E9E6E" alt="Latest Jade release">
   <img src="https://img.shields.io/github/v/release/itsnelys/Opal-Releases?style=flat-square&label=Opal&color=7C8FE6" alt="Latest Opal release">
+  <img src="https://img.shields.io/github/v/release/itsnelys/Amethyst-Releases?style=flat-square&label=Amethyst&color=8658ED" alt="Latest Amethyst release">
 </p>
 
 ## Games & worlds
